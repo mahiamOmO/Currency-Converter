@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter 💱
 
 This is a simple **Currency Converter** project built using **HTML**, **CSS**, and **JavaScript**. The application allows users to convert an amount from one currency to another by fetching real-time exchange rates from an API.
 
