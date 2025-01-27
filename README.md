@@ -10,7 +10,8 @@ This is a simple **Currency Converter** project built using **HTML**, **CSS**, a
 
 ## Demo
 
-You can check out the live demo of the project [here](#) (Insert link to your hosted project, e.g., on Netlify or GitHub Pages).
+You can check out the live demo of the project [here](https://mahiamomo.github.io/Currency-Converter/)
+
 
 ## Technologies Used
 
